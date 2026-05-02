@@ -5,6 +5,7 @@ how to make pkg... idk yet
 
 ## Structure of files:
 
+```
 backend/
     main.py                 *точка входа FastAPI*
     models.py               *TortoiseORM*
@@ -51,3 +52,4 @@ shared/                     *-- общие настройки (URL, API)*
 
 README.md
 .gitignore
+```
